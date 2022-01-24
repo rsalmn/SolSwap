@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "./static/css/main.703ab3cc.chunk.css",
-    "main.js": "./static/js/main.3acebe18.chunk.js",
-    "runtime-main.js": "./static/js/runtime-main.c06bb91b.js",
-    "static/css/2.3870cfe2.chunk.css": "./static/css/2.3870cfe2.chunk.css",
-    "static/js/2.c5aacf73.chunk.js": "./static/js/2.c5aacf73.chunk.js",
-    "index.html": "./index.html",
-    "precache-manifest.552f09c7eccbc4f742e21863af8f1f79.js": "./precache-manifest.552f09c7eccbc4f742e21863af8f1f79.js",
-    "service-worker.js": "./service-worker.js",
-    "static/js/2.c5aacf73.chunk.js.LICENSE.txt": "./static/js/2.c5aacf73.chunk.js.LICENSE.txt"
+    "main.css": "/SolSwap/static/css/main.703ab3cc.chunk.css",
+    "main.js": "/SolSwap/static/js/main.e0304129.chunk.js",
+    "runtime-main.js": "/SolSwap/static/js/runtime-main.8f68e60b.js",
+    "static/css/2.3870cfe2.chunk.css": "/SolSwap/static/css/2.3870cfe2.chunk.css",
+    "static/js/2.848f5797.chunk.js": "/SolSwap/static/js/2.848f5797.chunk.js",
+    "index.html": "/SolSwap/index.html",
+    "precache-manifest.2e63d8eeb66eafdaf931e12b1c13f699.js": "/SolSwap/precache-manifest.2e63d8eeb66eafdaf931e12b1c13f699.js",
+    "service-worker.js": "/SolSwap/service-worker.js",
+    "static/js/2.848f5797.chunk.js.LICENSE.txt": "/SolSwap/static/js/2.848f5797.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c06bb91b.js",
+    "static/js/runtime-main.8f68e60b.js",
     "static/css/2.3870cfe2.chunk.css",
-    "static/js/2.c5aacf73.chunk.js",
+    "static/js/2.848f5797.chunk.js",
     "static/css/main.703ab3cc.chunk.css",
-    "static/js/main.3acebe18.chunk.js"
+    "static/js/main.e0304129.chunk.js"
   ]
 }
