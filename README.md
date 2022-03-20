@@ -1,1 +1,1 @@
-Live Sample : https://garudaprojects.github.io/SolSwap/#/
+Live Sample : https://radensalman.github.io/SolSwap/#/
